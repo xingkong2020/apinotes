@@ -1,3 +1,20 @@
+okex.account_api   资金账户API
+okex.futures_api   交割合约API
+okex.lever_api   币币杠杆API
+okex.spot_api   币币API
+okex.swap_api   永续合约API
+okex.index_api   指数API
+okex.option_api   期权合约API
+okex.system_api   获取系统升级状态
+okex.consts   保存常用变量
+okex.utils   公用工具
+okex.client   登录使用
+okex.exceptions   错误情况判断
+
+
+
+---
+
 如何使用？
 
 强烈建议用户使用前阅读 Read before use.txt
@@ -26,3 +43,27 @@
     https://www.okex.com/docs/zh/
 
 2. 关于ws的相关问题请参阅同级目录下 WS-May be could help you.txt文件
+
+
+
+If you get a little confused：
+
+websockets 入门文档： https://websockets.readthedocs.io/en/stable/intro.html
+websockets python github： https://github.com/aaugustin/websockets
+websockets 常见问题： https://websockets.readthedocs.io/en/stable/faq.html#client-side
+关于code=1006错误：
+https://github.com/Rapptz/discord.py/issues/1996
+https://github.com/aaugustin/websockets/issues/587
+使用asyncio开发： https://docs.python.org/3/library/asyncio-dev.html
+
+
+
+1. 调用我们的接口均需要科学上网
+服务器建议 香港阿里云
+
+2. v3 api文档地址： https://www.okex.com/docs/zh/
+申请v3API网址： https://www.okex.com/account/users/myApi
+
+3. 若使用ws中遇到问题可参考同级目录下 May be could help you.txt 文件
+
+PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问题，还需本地调试解决，有帮助不到的地方，望多包涵。

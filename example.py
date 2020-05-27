@@ -22,13 +22,14 @@ if __name__ == '__main__':
     secret_key = ""
     passphrase = ""
 
+    # 参数use_server_time的值为False如果为True将使用服务器时间戳
     # param use_server_time's value is False if is True will use server timestamp
 
 # account api test
 # 资金账户API
     accountAPI = account.AccountAPI(api_key, secret_key, passphrase, False)
     # 资金账户信息 （6次/s）
-    # result = accountAPI.get_wallet()
+    result = accountAPI.get_wallet()
     # 单一币种账户信息 （6次/s）
     # result = accountAPI.get_currency('')
     # 资金划转  (1次/2s)

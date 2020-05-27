@@ -1,6 +1,9 @@
-import requests
 import json
-from . import consts as c, utils, exceptions
+
+import requests
+
+from . import consts as c
+from . import exceptions, utils
 
 
 class Client(object):
