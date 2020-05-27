@@ -1,0 +1,24 @@
+#!/bin/sh
+
+unset GIT_DIR  #很关键
+
+NowPath=`pwd`
+
+DeployPath="/root/mypy" #存放项目的文件夹位置
+
+cd $DeployPath
+
+git reset --hard
+git pull origin master
+
+composer install --ignore-platform-reqs
+
+cd $NowPath
+
+echo "同步完成"
+
+exit 0
+#————————————————
+#版权声明：本文为CSDN博主「Shen_Junxiao」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+#原文链接：https://blog.csdn.net/Shen_Junxiao/article/details/85245390/
+# chmod +x post-receive
