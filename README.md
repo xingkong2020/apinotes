@@ -76,11 +76,20 @@ https://github.com/aaugustin/websockets/issues/587
 3. 若使用ws中遇到问题可参考同级目录下 May be could help you.txt 文件
 
 PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问题，还需本地调试解决，有帮助不到的地方，望多包涵。
+---
+
+
 
 ![这里写图片描述 align=center](https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg)
+---
+
 
 ---
-<img src="https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg" width="50%">
+
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg" width="100" height="100">
+</div>
 
 ---
 
