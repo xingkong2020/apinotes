@@ -1,17 +1,26 @@
 okex.account_api   资金账户API
+
 okex.futures_api   交割合约API
+
 okex.lever_api   币币杠杆API
+
 okex.spot_api   币币API
+
 okex.swap_api   永续合约API
+
 okex.index_api   指数API
+
 okex.option_api   期权合约API
+
 okex.system_api   获取系统升级状态
+
 okex.consts   保存常用变量
+
 okex.utils   公用工具
+
 okex.client   登录使用
+
 okex.exceptions   错误情况判断
-
-
 
 ---
 
@@ -67,3 +76,23 @@ https://github.com/aaugustin/websockets/issues/587
 3. 若使用ws中遇到问题可参考同级目录下 May be could help you.txt 文件
 
 PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问题，还需本地调试解决，有帮助不到的地方，望多包涵。
+
+![这里写图片描述 align=center](https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg)
+
+---
+<img src="https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg" width="50%">
+
+---
+
+
+<div align=center>
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+</div>
+
+<div align=right>
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+</div>
+
+<div align=Left>
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+</div>

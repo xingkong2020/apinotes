@@ -389,13 +389,13 @@ url = 'wss://real.okex.com:8443/ws/v3'
 # 用户币币账户频道
 # channels = ["spot/account:USDT"]
 # 用户杠杆账户频道
-channels = ["spot/margin_account:BTC-USDT"]
+# channels = ["spot/margin_account:BTC-USDT"]
 # 用户委托策略频道
 # channels = ["spot/order_algo:XRP-USDT"]
 # 用户交易频道
 # channels = ["spot/order:XRP-USDT"]
 # 公共-Ticker频道
-# channels = ["spot/ticker:ETH-USDT"]
+channels = ["spot/ticker:ETH-USDT"]
 # 公共-K线频道
 # channels = ["spot/candle60s:BTC-USDT"]
 # 公共-交易频道
