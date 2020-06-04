@@ -94,14 +94,14 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 ---
 
 
+<div align=Left>
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+</div>
+
 <div align=center>
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 </div>
 
 <div align=right>
-使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
-</div>
-
-<div align=Left>
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 </div>
