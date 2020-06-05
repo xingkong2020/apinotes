@@ -79,19 +79,14 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 ---
 
 
-
-![这里写图片描述 align=center](https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg)
----
-
-
 ---
 
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/xingkong2020/images/master/block/Xnip2019.jpg" width="100" height="100">
+<img src="https://code.aliyun.com/start1989/images/raw/cfaea9b28dc13709c90c988d2a6733018deb68f2/abcdef/IMG_1832.JPG" width="200" height="300">
 </div>
 
----
+--- 
 
 
 <div align=Left>
@@ -105,3 +100,13 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 <div align=right>
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 </div>
+
+这是一段普通的文本，<br>
+直接回车不能换行，<br>
+要使用<br>
+
+这是一段普通的文本，
+
+直接回车不能换行，
+
+要使用
