@@ -83,12 +83,29 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 
 <div align=center>
 
-<img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="200" height="300">
+| 图片一 | 图片二 | 图片三 |
+| :----: | :----: | :----: |
+| <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="200" height="300"> | <img src="https://i.loli.net/2020/06/06/Bs38HpbMYuaLcyV.jpg" width="200" height="300"> | <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="200" height="300"> |
+| 图片一 | 图片二 | 图片三 |
 </div>
 
 --- 
 
 
+<table align=Left>
+    <tr align=center>
+        <td>图片测试1</td>
+        <td>图片测试2</td>
+    </tr>
+    <tr align=center>
+        <td><img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="100" height="200"></td>
+        <td><img src="https://i.loli.net/2020/06/06/Bs38HpbMYuaLcyV.jpg" width="100" height="200"></td>
+    </tr>
+    <tr align=center>
+        <td>图片测试1</td>
+        <td>图片测试2</td>
+    </tr>
+</table>
 <div align=Left>
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 </div>
@@ -110,7 +127,3 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 直接回车不能换行，
 
 要使用
-
-![Xnip2020-03-25_20-51-19.jpg](https://i.loli.net/2020/05/03/WmM9cTkoi1lIfuK.jpg)
-
-![IMG_1826.JPG](https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg)
