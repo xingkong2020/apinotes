@@ -81,19 +81,17 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 
 ---
 
-<div align=center>
-
 | 图片一 | 图片二 | 图片三 |
 | :----: | :----: | :----: |
-| <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="100" height="150"> | <img src="https://i.loli.net/2020/06/06/Bs38HpbMYuaLcyV.jpg" width="100" height="150"> | <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="200" height="300"> |
+| <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="70" height="75"> | <img src="https://i.loli.net/2020/06/06/Bs38HpbMYuaLcyV.jpg" width="100" height="150"> | <img src="https://i.loli.net/2020/06/06/5XZ3rWicP9DsAv8.jpg" width="200" height="300"> |
 | 图片一 | 图片二 | 图片三 |
 | 图片一 | 图片二 | 图片三 |
-</div>
 
 --- 
+
 <br>
+
 --- 
-<br>
 
 <table>
     <tr align=center>
@@ -126,7 +124,9 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
     </tr>
     <tr align=center>
         <td>
-        333
+        这是一段普通的文本，<br>
+        直接回车不能换行，<br>
+        要使用
         </td>
         <td>
         <table border="1">
