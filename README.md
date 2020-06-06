@@ -93,17 +93,16 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 
 --- 
 
-<div align=center>
-<table align=center>
-    <tr align=center>
+<div align=center><table>
+    <tr>
         <td>图片测试1</td>
         <td>图片测试2</td>
     </tr>
-    <tr align=center>
+    <tr>
         <td><img src="" width="200" height="50"></td>
         <td><img src="" width="200" height="50"></td>
     </tr>
-    <tr align=center>
+    <tr>
         <td>
             <table border="1">
             <tr>
@@ -123,7 +122,7 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
         <td>图片测试2</td>
     </tr>
     </tr>
-    <tr align=center>
+    <tr>
         <td>
         这是一段普通的文本，<br>
         直接回车不能换行，<br>
@@ -143,10 +142,9 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
         <td>row 2, cell 1</td>
         <td>row 2, cell 2</td>
     </tr>
-</table></td>
+    </table></td>
     </tr>
-</table>
-</div>
+</table></div>
 
 --- 
 
