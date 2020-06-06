@@ -94,7 +94,7 @@ PS：SDK仅为给予参考，降低开发门槛，相关客户端程序代码问
 --- 
 
 <div align=center>
-<table>
+<table align=center>
     <tr align=center>
         <td>图片测试1</td>
         <td>图片测试2</td>
